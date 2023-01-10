@@ -1,6 +1,6 @@
 defmodule Ash.Registry do
   @moduledoc """
-  A registry allows you to separate your resources from your `api` module, to reduce improve compile times and reduce compile time dependencies.
+  A registry allows you to separate your resources from your `api` module, to improve compile times and reduce compile time dependencies.
 
   For example:
 
